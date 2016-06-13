@@ -1,5 +1,5 @@
 {
-  "Key"        : "appsec",
+  "key"        : "appsec",
   "name"       : "AppSec",
   "description": "AppSec Maturity Models test data"
 }
